@@ -1,4 +1,4 @@
 # site-marvel
 <h1>
-  site desenvolvido na oficina de front_end na associação sao jose junto com a starup cangaço_dev
+  site desenvolvido na oficina de front_end pela associação são jose conjunta a startup cangaço_dev
 </h1>
